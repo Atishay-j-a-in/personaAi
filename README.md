@@ -1,5 +1,8 @@
 # ChaiAurParty - Group AI Chat
 
+demo video - https://x.com/shay_ik/status/2073786380979961925?s=20
+deployed link - https://persona.atishayjain.engineer
+
 A WhatsApp-like group chat interface where you can chat with two AI personas — **Hitesh sir** and **Piyush sir** — powered by NVIDIA AI.
 
 An intelligent orchestrator routes your messages to the right person based on the context of your query.
